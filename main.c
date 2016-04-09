@@ -4,7 +4,7 @@
 double pi(void);
   int main(void) {
   
-    printf("Valor de PI: %.7f\n", pi());
+    printf("Valor de PI: %.6f\n", pi());
 
     }
 

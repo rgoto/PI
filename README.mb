@@ -1,0 +1,2 @@
+Cálculo de PI atravéz da fórmula de Leibniz para achar o valor aproximado de PI, onde se usa a formula 
+x =  4 * pow(-1,n)/(2*n +1), onde um contador de 0 a 1000000 é iniciado e substituido na váriavel "n", quanto maior for o valor máximo do contador mais precisão tera no resultado de PI.
